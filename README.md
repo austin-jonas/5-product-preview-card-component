@@ -1,7 +1,7 @@
 
 # Social Links Profile
 
-A mobile-first, responsive product preview card component built with HTML and CSS. It features art-directed image, a flexible flexbox layout, and scalable, accessible typography.
+A mobile-first, responsive product preview card component built with semantic HTML and modern CSS. It features art-directed image, a flexible flexbox layout, and scalable, accessible typography.
 ## Screenshots
 
 ![Project Screenshot](assets/preview/desktop-preview.png)
