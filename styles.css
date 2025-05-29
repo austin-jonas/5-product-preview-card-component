@@ -171,3 +171,11 @@ body {
         gap: 2rem;
     }
 }
+
+/* desktop */
+
+@media (min-width: 1024px) {
+    .add-to-cart:hover {
+        background: #1A4032;
+    }
+}
